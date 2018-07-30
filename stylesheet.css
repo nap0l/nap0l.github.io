@@ -1,0 +1,20 @@
+body {
+	background-image: url(simon-stalenhag.jpeg) ;
+	background-color: #000000;
+	background-repeat: no-repeat;
+	background-height: 100%;
+}
+
+.emotitle {
+	vertical-align: middle;
+	height: 50px;
+	background-opacity: 60%;
+	text-align: center;
+	margin-top: 550px;
+}
+
+p {
+	font-family: 'Montserrat', sans-serif;
+	color: #FFFFFF;
+	font-size: 40px;
+}
